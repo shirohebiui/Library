@@ -5,3 +5,4 @@ git add : tracked(green) <-> git rm
 git commit -m [explain] : Necessary git login!
 git log : show commit log
 git push [name] master : push data to server
+git pull [name] master : download data to server
