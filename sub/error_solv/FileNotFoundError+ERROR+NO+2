@@ -1,0 +1,6 @@
+FileNotFoundError: [Errno 2] No such file or directory: 'c:\\users\\kms\\appdata\\local\\programs\\python\\python37\\Lib\\venv\\scripts\\nt\\pythonw.exe'
+
+C:\Users\KMS\AppData\Local\Programs\Python\Python37\Lib\venv\scripts\nt
+
+C:\Users\KMS\AppData\Local\Programs\Python\Python37
+위 파일에서 python.exe , pythonw.exe 를 복사해줌
